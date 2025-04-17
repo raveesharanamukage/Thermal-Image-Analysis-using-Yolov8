@@ -23,5 +23,5 @@ Expand dataset to include high-voltage systems.
 Improve detection of rare faults using advanced augmentation.
 Integrate with AI-driven predictive maintenance systems.
 ## Links
-📂 Dataset: Google Drive Link
-📜 Code & Training: Google Colab Link
+📂 [Dataset: Google Drive Link](https://drive.google.com/file/d/19lfR-mAZ0rnqFxmFa3HdApwG2YTtupwg/view?usp=sharing)
+📜 [Code & Training: Google Colab Link](https://colab.research.google.com/drive/1ZHfkPy_-3d2uTMHa3e1SET17sGFSkRFz?usp=sharing)
